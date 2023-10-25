@@ -1,4 +1,4 @@
-package com.epam.engx.selenium.task4;
+package com.epam.engx.selenium.task1;
 
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.api.extension.TestWatcher;

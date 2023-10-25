@@ -1,4 +1,4 @@
-package com.epam.engx.selenium.task4;
+package com.epam.engx.selenium.task1;
 
 import com.epam.engx.selenium.pages.browser.Browser;
 import com.epam.engx.selenium.pages.gcpc.Estimate;
